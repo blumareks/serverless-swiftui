@@ -1,0 +1,29 @@
+PODS:
+  - OpenWhisk (0.3.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - OpenWhisk (from `https://github.com/apache/incubator-openwhisk-client-swift.git`, tag `0.3.0`)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  OpenWhisk:
+    :git: https://github.com/apache/incubator-openwhisk-client-swift.git
+    :tag: 0.3.0
+
+CHECKOUT OPTIONS:
+  OpenWhisk:
+    :git: https://github.com/apache/incubator-openwhisk-client-swift.git
+    :tag: 0.3.0
+
+SPEC CHECKSUMS:
+  OpenWhisk: 93a15635ddc591634d780f922dcdecbabaa02b87
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: ebdfacc05b1b2b1c5b6ff51a38183807203eca05
+
+COCOAPODS: 1.8.4
